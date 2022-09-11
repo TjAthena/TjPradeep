@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TjAthena
+- 👋 Hi, I’m @Tjpradeep
 - I’m currently learning Ai&Ds
 - nice to meet you
 -Welcome to my circle
