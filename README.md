@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Tjpradeep
 - I’m currently learning Ai&Ds
-- nice to meet you
--Welcome to my circle
+- looking for internship
 
 <!---
 TjAthena/TjAthena is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
